@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'Hello from Jenkins Trigger Pipeline'
+                echo 'Hello from Jenkins Trigger Pipeline ;merci bcp'
             }
         }
     }
